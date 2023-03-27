@@ -1,0 +1,45 @@
+@media(max-width: 1100px){
+    .about__block1-item{
+        margin: 0 auto 20px auto;
+    }
+    .about__inner-item{
+        margin: 0 auto 30px auto;
+    }
+    .about__block2{
+        padding-bottom: 50px;
+    }
+    .about2__item{
+        margin: 0 auto 30px auto;
+    }
+    .gallery__img{
+        max-width: 480px;
+        width: 100%;
+        margin: 0 10px 10px 0;
+    }
+    .partners__img{
+        margin: 0 auto 30px auto;
+    }
+    .reviews__item{
+        margin: 0 auto 40px auto;
+    }
+    .contact__item{
+        margin: 0 auto 50px auto;
+    }
+}
+
+@media(max-width: 700px){
+    .intro__title{
+        font-size: 44px;
+        line-height: 60px;
+    }
+}
+@media(max-width: 500px){
+    .burger__menu{
+        width: 100%;
+    }
+}
+@media(max-width: 325px){
+    .about__block1{
+        padding: 0;
+    }
+}
